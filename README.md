@@ -6,7 +6,7 @@
 - studying cs + stats @ mcgill  
 - prev SWE intern at Zimmer Biomet and ZombieCraft  
 - into machine learning, data, and math  
-- big fan of LEGO, basketball, Elden Ring, and poker
+- big fan of LEGO, basketball, and poker
 
 ---
 
