@@ -2,10 +2,6 @@
   <code>welcome to my github</code>
 </h1>
 
-<p align="center">
-  <i>exploring code, data, and everything in between</i>
-</p>
-
 ---
 
 ### 🧠 about me
