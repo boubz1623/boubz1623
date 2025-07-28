@@ -1,20 +1,18 @@
-<h1 align="center">hey, i'm antoine 👋</h1>
+<h1 align="center">welcome</h1>
 
 <p align="center">
-  <i>cs + stats @ mcgill • ml + data + math</i>
+  <i>cs + stats @ mcgill</i>
 </p>
 
 ---
 
 ### 🧠 about me
-- 💻 currently studying **computer science & statistics** at **McGill University**
-- 💼 did SWE internships at **Zimmer Biomet** and **ZombieCraft**
-- 🧮 obsessed with **machine learning**, **data**, and **mathematical thinking**
-- 🧱 lifelong love for **LEGO**, systems, and things that click
+- prev SWE intern at Zimmer Biomet and ZombieCraft
+- interested in machine learning, data, and math
+- big fan of LEGO and basketball
 
 ---
 
 ### 🛠️ tech stack
 ```python
-languages = ["Python", "JavaScript", "SQL", "C++"]
-tools = ["Git", "Linux", "VS Code", "Jupyter", "PostgreSQL"]
+languages = ["C++", "Python", "Java", "JavaScript", "SQL", "Go"]
