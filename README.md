@@ -2,8 +2,6 @@
   <code>welcome to my github</code>
 </h1>
 
----
-
 ### 🧠 about me
 - studying cs + stats @ mcgill  
 - prev SWE intern at Zimmer Biomet and ZombieCraft  
