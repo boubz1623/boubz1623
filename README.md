@@ -1,15 +1,18 @@
-<h1 align="center" style="color:#7fdbff;">hello.</h1>
+<h1 align="center">
+  <code>welcome to my github</code>
+</h1>
 
 <p align="center">
-  <i><span style="color:#aaaaaa;">cs + stats @ mcgill</span></i>
+  <i>exploring code, data, and everything in between</i>
 </p>
 
 ---
 
 ### 🧠 about me
-- <span style="color:#f39c12;">prev SWE intern</span> at <b>Zimmer Biomet</b> and <b>ZombieCraft</b>  
-- into <span style="color:#1abc9c;">machine learning</span>, <span style="color:#9b59b6;">data</span>, and <span style="color:#3498db;">math</span>  
-- big fan of <span style="color:#e74c3c;">LEGO</span>, <span style="color:#2ecc71;">basketball</span>, and <span style="color:#95a5a6;">Elden Ring</span>
+- studying cs + stats @ mcgill  
+- prev SWE intern at Zimmer Biomet and ZombieCraft  
+- into machine learning, data, and math  
+- big fan of LEGO, basketball, and Elden Ring
 
 ---
 
