@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm antoine 👋</h1>
 
 <p align="center">
-  <i>cs + stats @ mcgill • aspiring ml engineer • lego purist</i>
+  <i>cs + stats @ mcgill • ml + data + math</i>
 </p>
 
 ---
