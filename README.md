@@ -7,8 +7,7 @@
 ### 🧠 about me
 - studying cs + stats @ mcgill  
 - SWE intern @ Amazon, prev Zimmer Biomet & ZombieCraft  
-- into machine learning, data, and math  
-- big fan of LEGO, basketball, and poker
+- into LEGO, ML, basketball, math, poker, robotics
 
 ---
 
